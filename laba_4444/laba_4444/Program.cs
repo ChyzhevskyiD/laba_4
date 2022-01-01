@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Lab_4_1
+namespace Lab_4444
 {
     class Chislo
     {
